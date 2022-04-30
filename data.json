@@ -1,0 +1,10 @@
+{
+    "links": [
+        {
+            "name": "Gmail",
+            "desription": "",
+            "icon": null,
+            "link": "https://mail.google.com/"
+        }
+    ]
+}
